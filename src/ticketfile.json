@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Unable to login",
+    "description": "Customer cannot log in with correct credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-01T09:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment not processed",
+    "description": "Transaction failed but money was deducted.",
+    "customer": "Jane Smith",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-02T12:20:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Slow website loading",
+    "description": "Pages are taking too long to load on mobile.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-03T08:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Error 404 on dashboard",
+    "description": "Customer sees 404 error after login.",
+    "customer": "Emily Davis",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-04T11:10:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Feature request: Dark mode",
+    "description": "Customer requested a dark mode option.",
+    "customer": "David Wilson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-05T15:30:00Z"
+  },
+  {
+    "id": 6,
+    "title": "App crash on startup",
+    "description": "Mobile app crashes immediately after opening.",
+    "customer": "Sophia Johnson",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-06T07:25:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Password reset not working",
+    "description": "Reset link is expired even when newly requested.",
+    "customer": "Liam Martinez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-07T10:40:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Email notifications not received",
+    "description": "Customer is not receiving order confirmation emails.",
+    "customer": "Olivia Taylor",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-08T13:55:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Refund not issued",
+    "description": "Customer requested refund but hasn't received it.",
+    "customer": "James Anderson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-09T16:20:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Profile picture upload fails",
+    "description": "Upload shows success but image not updated.",
+    "customer": "Isabella Thomas",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-10T09:05:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Invoice not downloadable",
+    "description": "Customer cannot download invoice from orders page.",
+    "customer": "William Lee",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-11T12:45:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Subscription auto-renewal issue",
+    "description": "Customer's subscription renewed without consent.",
+    "customer": "Mia Harris",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-12T14:30:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Chat support not responsive",
+    "description": "Customer reports long waiting time in live chat.",
+    "customer": "Benjamin Clark",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-13T17:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Order tracking not updated",
+    "description": "Shipment shows 'pending' for several days.",
+    "customer": "Charlotte Lewis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-14T08:10:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Two-factor authentication failed",
+    "description": "OTP not delivered to mobile number.",
+    "customer": "Alexander Walker",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-15T19:25:00Z"
+  }
+]
